@@ -2,45 +2,62 @@
 <h1 align="center">Hey there 👋, I'm Sanskar Rohatgi</h1>
 
 <p align="center">
-  <em>🌟 Product Enthusiast · Builder · Cloud → Product Transitioner</em>
+  <em>🚀 Product Analyst · SaaS Builder · Fintech & Security Systems</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 💡 Transitioning from **cloud infrastructure** to **product management**
-- 🧠 Skilled at connecting **user needs → product vision → execution**
-- 🛠️ Building projects that explore **UX, AI tools, and systems thinking**
-- 🌱 Currently learning **product analytics, strategy, and full-stack workflows**
-- 💬 Love discussing **PM frameworks**, **roadmaps**, and **user empathy**
+- 🧠 Product-focused Analyst with experience across **fintech, identity verification, compliance, and cloud security platforms**
+- 🔍 Strong at breaking down **complex systems → user workflows → product solutions**
+- ⚙️ Worked on **API-driven products, onboarding systems, and risk engines**
+- 📊 Focused on **data-driven decisions, experimentation, and product impact**
+- 💬 Love discussing **product strategy, trade-offs, and system design**
 
 ---
 
-### 🚀 Featured Project
-<table>
-<tr>
-<td width="100%">
-  
-**[Orderly](https://github.com/Sanskar-pm/Orderly)**  
-> Smart and minimal task/order management tool designed to keep your workflow clean and efficient.  
-> 🧭 _Every feature is built with research, iteration, and user-first design in mind._
+### 🏗️ Products I've Worked On
 
-**Stack / Focus:** React · Node.js · UX Design
+- 🔐 **Finpass** – KYC & onboarding platform  
+- 🧾 **DeepID SDK** – Developer-first identity verification SDK  
+- 🛡️ **SureComply** – Compliance & risk management system  
+- ☁️ **SureCloud** – Real-time cloud risk & security platform  
+- 🎯 **SureHunt** – AI-powered continuous pentesting & attack simulation  
 
-</td>
-</tr>
-</table>
+> Built across **B2B SaaS systems handling onboarding, compliance, and security risk prioritization**
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧭 [Orderly](https://github.com/Sanskar-pm/Orderly)
+> Unified order tracking dashboard solving fragmented e-commerce experiences  
+> Focused on reducing friction in **returns, tracking, and user workflows**
+
+**Focus:** Product Design · UX · System Thinking
+
+---
+
+#### 🧠 [Sakhi Health – AI Continuous Care Companion](https://github.com/Sanskar-pm/sakhi-health-case-study)
+> Product case study for an AI-powered women's health platform focused on **continuous care, retention, and habit-building**
+
+**Highlights:**
+- Defined MVP, product roadmap, and monetization strategy  
+- Designed North Star Metric: **Healthy Active Users (HAU)**  
+- Translated user research into actionable product workflows  
+- Focused on solving fragmented care in **PCOS & post-natal recovery**
 
 ---
 
 ### ⚙️ Tech & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Product%20Management-%23FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-%2300C7B7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%230074C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Product%20Design-%230072C6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-%230072C6?style=for-the-badge" />
 </p>
 
 ---
@@ -55,10 +72,14 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanskar-v-rohatgi-a249b1212/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rohatgisanskar82@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanskar-v-rohatgi-a249b1212/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rohatgisanskar82@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">⭐ “Build what you wish existed.” ⭐</h3>
+<h3 align="center">⚡ “Build systems that actually solve real problems.” ⚡</h3>
