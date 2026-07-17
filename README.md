@@ -1,6 +1,5 @@
 <!-- Header -->
 <h1 align="center">Hey there 👋, I'm Sanskar Rohatgi</h1>
-
 <p align="center">
   <em>🚀 Product Analyst · SaaS Builder · Fintech & Security Systems</em>
 </p>
@@ -17,7 +16,6 @@
 ---
 
 ### 🏗️ Products I've Worked On
-
 - 🔐 **Finpass** – KYC & onboarding platform  
 - 🧾 **DeepID SDK** – Developer-first identity verification SDK  
 - 🛡️ **SureComply** – Compliance & risk management system  
@@ -29,6 +27,20 @@
 ---
 
 ### 🚀 Featured Projects
+
+#### 🐾 [Pawgress](https://github.com/Sanskar-pm/pawgress)
+> An interactive accountability pet app — merges habit tracking with the emotional engagement of a virtual pet (Tamagotchi-style) and Duolingo-style retention mechanics  
+> Prototyped end-to-end using **Lovable**, from onboarding flow through the core habit loop
+
+**Highlights:**
+- Full PRD + BRD covering persona research, competitive analysis (Habitica, Finch, Duolingo), and feature prioritization
+- Designed North Star Metric: **Weekly Active Pet Parents (WAPP)**
+- Built around behavioral psychology principles — soft loss aversion, variable rewards, identity-based habits
+- Defined monetization strategy (freemium cosmetics + subscription) and D7/D30 retention targets
+
+**Focus:** Product Strategy · Behavioral Design · Rapid Prototyping
+
+---
 
 #### 🧭 [Orderly](https://github.com/Sanskar-pm/Orderly)
 > Unified order tracking dashboard solving fragmented e-commerce experiences  
@@ -82,4 +94,4 @@
 
 ---
 
-<h3 align="center">⚡ “Build systems that actually solve real problems.” ⚡</h3>
+<h3 align="center">⚡ "Build systems that actually solve real problems." ⚡</h3>
